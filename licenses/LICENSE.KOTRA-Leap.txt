@@ -1,0 +1,30 @@
+KOTRA Leap (코트라 도약체)
+==========================
+
+Copyright holder: Korea Trade-Investment Promotion Agency (KOTRA)
+
+This patch uses KOTRA Leap to render Korean menu bitmap images. The original
+TTF/WOFF font software is not included in this patcher or release package.
+
+KOTRA’s published usage notice permits companies and individuals to use the
+font freely, including commercial use. It prohibits arbitrary modification or
+redistribution of the font software and directs users to obtain the font from
+KOTRA’s website. Do not extract, reconstruct, or redistribute the font itself
+from this project.
+
+Font information and current distribution terms:
+https://www.kotra.or.kr/
+https://noonnu.cc/font_page/768
+
+코트라 도약체
+-------------
+
+저작권자: 대한무역투자진흥공사(KOTRA)
+
+이 패치는 코트라 도약체로 렌더링한 한국어 메뉴 비트맵 이미지를 사용합니다.
+원본 TTF/WOFF 폰트 파일은 패처와 배포 패키지에 포함하지 않습니다.
+
+KOTRA가 공개한 이용 안내에 따르면 기업 및 개인은 상업적 용도를 포함해 자유롭게
+사용할 수 있으나, 폰트 파일을 임의로 수정하거나 재배포해서는 안 되며 KOTRA
+홈페이지를 통해 배포해야 합니다. 이 프로젝트에서 폰트 자체를 추출·복원하거나
+재배포하지 마십시오. 최신 조건은 위 공식 배포처와 안내 페이지에서 확인하십시오.

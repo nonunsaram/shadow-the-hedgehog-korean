@@ -1,0 +1,2 @@
+c66b9769281a1236d9ca2103472e5b305e2b688019f4501e51ab568ccaec9ed9  patches/Shadow-the-Hedgehog-GC-JP-Korean-v0.1.xdelta
+2c435508ce1913629a76d6b88807fa455f1a98f211fbe039cbf40ed056a90f1b  patches/Shadow-the-Hedgehog-GC-USA-Korean-v0.1.xdelta
