@@ -1,2 +1,4 @@
-c66b9769281a1236d9ca2103472e5b305e2b688019f4501e51ab568ccaec9ed9  patches/Shadow-the-Hedgehog-GC-JP-Korean-v0.1.xdelta
-2c435508ce1913629a76d6b88807fa455f1a98f211fbe039cbf40ed056a90f1b  patches/Shadow-the-Hedgehog-GC-USA-Korean-v0.1.xdelta
+2a8d5cd8d6aa1a9062a9bdaa943842761e577c134b8d086aa99b370940f02f61  patches/Shadow-the-Hedgehog-GC-JP-Korean-v0.2.xdelta
+93294be14b659f3670c6751c2b2d88e3b65b6170f9533aed527ace1972740c7b  patches/Shadow-the-Hedgehog-GC-USA-Korean-v0.2.xdelta
+2af815f6a906f33c07d66b0572751b83a85b5b0b54c6ba3c6d665de20f316df3  patches/Shadow-the-Hedgehog-PS2-JP-Korean-v0.1.xdelta
+91ea185d18e2f92d3b2f3f1344c70d1b32cfb84fe70e10ee56c726337c04ee78  patches/Shadow-the-Hedgehog-PS2-KR-Korean-v0.1.xdelta
